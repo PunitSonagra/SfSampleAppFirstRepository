@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_outstanding_dash_board">#c94710</color>
+    <color name="color_expense_dash_board">#188f7e</color>
+    <color name="color_collection_dash_board">#be8713</color>
+    <color name="color_attendance_dash_board">#1e35e4</color>
+    <color name="color_text_expense">#2b2a2a</color>
+
+    <color name="color_dealername_bg">#f54a96</color>
+    <color name="color_dealer_first_row">#faa4ca</color>
+    <color name="color_dealer_second_row">#f56fab</color>
+    <color name="color_outstanding_bg">#d2206f</color>
+    <color name="transparent">#000000</color>
+    <color name="disable_bg">#88676767</color>
+</resources>
