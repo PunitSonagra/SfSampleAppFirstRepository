@@ -30,4 +30,6 @@
 
     <string name="no">No</string>
     <string name="yes">Yes</string>
+
+    <string name="title_app_config">App config dialog</string>
 </resources>
