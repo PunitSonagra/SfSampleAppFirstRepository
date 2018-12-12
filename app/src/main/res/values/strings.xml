@@ -7,6 +7,7 @@
     <string name="title_are_you_sure">Are you sure want to</string>
 
     <string name="launch_activity">Launch activity</string>
+    <string name="splash_screen">Splash screen</string>
     <string name="location_unknown">Location unknown</string>
     <string name="location_updates_label">Location Updates</string>
 
@@ -32,4 +33,5 @@
     <string name="yes">Yes</string>
 
     <string name="title_app_config">App config dialog</string>
+
 </resources>
